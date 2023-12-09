@@ -6,7 +6,7 @@ casePCA folder includes the performance of three techniques with PCA.
 PCA_T2_SPE folder includes the t2 statistic and spe of 21 faults.
 performance_diiferent_processing folder includes the code for plotting the performance plots for the above cases.
 normaldata folder is the normal data under 5 times of simulation using the TEP Simulink model.
-
+heatmap file includes the function to generate the heatmap.
 
 
 
