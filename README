@@ -1,3 +1,22 @@
+Test and train folders include the TEP datasets.
+NO preprocessing folder includes the performance of three techniques without preprocessing before CFS.
+normalization folder includes the performance of three techniques with normalization before CFS.
+standardization folder includes the performance of three techniques with standardization before CFS.
+casePCA folder includes the performance of three techniques with PCA.
+PCA_T2_SPE folder includes the t2 statistic and spe of 21 faults.
+performance_diiferent_processing folder includes the code for plotting the performance plots for the above cases.
+normaldata folder is the normal data under 5 times of simulation using the TEP Simulink model.
+
+
+
+
+
+
+
+
+
+
+Below is the readme for the TEST AND TRAIN FILES.
 Copyright (c) 1998-2002 The Board of Trustees of the University of Illinois
 
 All rights reserved.
